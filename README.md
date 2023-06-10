@@ -1,4 +1,4 @@
-# CSVuploader_backend
+# CSVuploader_Frontend
 The project has been made using Node.js, Express.js, MongoDB, and React. Here's a step-by-step guide to creating the project:
 
 # Set up Frontend
